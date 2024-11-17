@@ -191,7 +191,7 @@ export default function Home() {
 
       <Grid2 container columns={{ xs: 12, sm: 12, md: 12 }} spacing={1} marginTop={2}>
         <Grid2 size={{ xs: 12, sm: 12, md: 12 }}>
-          <Frame title="กิจกรรมวิชาการ" header id=""academicactivity/>
+          <Frame title="กิจกรรมวิชาการ" header id="academicactivity"/>
         </Grid2>
         <Grid2 size={{ xs: 12, sm: 6, md: 4 }}>
         <Frame title="">
