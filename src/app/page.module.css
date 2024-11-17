@@ -1,0 +1,17 @@
+.section {
+    margin: 10px;
+    margin-bottom: 50px;
+}
+.page {
+    padding: 20px;
+}
+.page .bold {
+    font-family: var(--font-chula-new-bold);
+}
+
+.page p {
+    font-family: var(--font-chula-new-reg);
+}
+.paragraph {
+    padding: 10px;
+}
