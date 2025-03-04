@@ -30,14 +30,14 @@ export default function Page() {
                             <ImageList cols={{ xs: 1, sm: 2, md: 1, lg: 2 }}>
                                 <ImageListItem>
                                     <img
-                                        src={"/assets/images/cert/porphor1-3-1.jpg"}
+                                        src={"/assets/images/cert/cert.png"}
                                         alt={"ปพ1"}
                                         loading="lazy"
                                     />
                                 </ImageListItem>
                                 <ImageListItem>
                                     <img
-                                        src={"/assets/images/cert/porphor1-3-2.jpg"}
+                                        src={"/assets/images/cert/cert.png"}
                                         alt={"ปพ1"}
                                         loading="lazy"
                                     />
@@ -50,14 +50,14 @@ export default function Page() {
                             <ImageList cols={{ xs: 1, sm: 2, md: 1, lg: 2 }}>
                                 <ImageListItem>
                                     <img
-                                        src={"/assets/images/cert/porphor1-5-1.jpg"}
+                                        src={"/assets/images/cert/cert.png"}
                                         alt={"ปพ1"}
                                         loading="lazy"
                                     />
                                 </ImageListItem>
                                 <ImageListItem>
                                     <img
-                                        src={"/assets/images/cert/porphor1-5-2.jpg"}
+                                        src={"/assets/images/cert/cert.png"}
                                         alt={"ปพ1"}
                                         loading="lazy"
                                     />

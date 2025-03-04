@@ -133,7 +133,7 @@ export default function Home() {
               <ImageList sx={{ width: "100%", height: "auto" }} cols={1} >
                 <ImageListItem>
                   <img
-                    src={`/assets/images/cert/46ict.png`}
+                    src={`/assets/images/cert/cert.png`}
                     alt={"46ict"}
                     loading="lazy"
                   />
@@ -153,7 +153,7 @@ export default function Home() {
               <ImageList sx={{ width: "100%", height: "auto" }} cols={1} >
                 <ImageListItem>
                   <img
-                    src={`/assets/images/cert/KMITL-IOT.png`}
+                    src={`/assets/images/cert/cert.png`}
                     alt={"KMITL"}
                     loading="lazy"
                   />
@@ -173,7 +173,7 @@ export default function Home() {
               <ImageList sx={{ width: "100%", height: "auto" }} cols={1} >
                 <ImageListItem>
                   <img
-                    src={`/assets/images/cert/แข่งขันเขียนโปรแกรมคอมพิวเตอร์.jpg`}
+                    src={`/assets/images/cert/cert.png`}
                     alt={"programming"}
                     loading="lazy"
                   />
@@ -199,7 +199,7 @@ export default function Home() {
               <ImageList sx={{ width: "100%", height: "auto" }} cols={1} >
                 <ImageListItem>
                   <img
-                    src={`/assets/images/cert/ChemChallenge12.jpg`}
+                    src={`/assets/images/cert/cert.png`}
                     alt={"Chem Challenge 12 Chula"}
                     loading="lazy"
                   />
@@ -214,7 +214,7 @@ export default function Home() {
               <ImageList sx={{ width: "100%", height: "auto" }} cols={1} >
                 <ImageListItem>
                   <img
-                    src={`/assets/images/cert/UTCC.png`}
+                    src={`/assets/images/cert/cert.png`}
                     alt={"UTCC Digital Challenge 2024"}
                     loading="lazy"
                   />
@@ -229,7 +229,7 @@ export default function Home() {
               <ImageList sx={{ width: "100%", height: "auto" }} cols={1} >
                 <ImageListItem>
                   <img
-                    src={`/assets/images/cert/สร้างชื่อเสียง4.jpg`}
+                    src={`/assets/images/cert/cert.png`}
                     alt={"สร้างชื่อเสียงมาสู๋โรงเรียน"}
                     loading="lazy"
                   />
@@ -244,7 +244,7 @@ export default function Home() {
               <ImageList sx={{ width: "100%", height: "auto" }} cols={1} >
                 <ImageListItem>
                   <img
-                    src={`/assets/images/cert/สร้างชื่อเสียง5.jpg`}
+                    src={`/assets/images/cert/cert.png`}
                     alt={"สร้างชื่อเสียงมาสู่โรงเรียน"}
                     loading="lazy"
                   />
@@ -259,7 +259,7 @@ export default function Home() {
               <ImageList sx={{ width: "100%", height: "auto" }} cols={1} >
                 <ImageListItem>
                   <img
-                    src={`/assets/images/cert/การแข่งขันอ่านออกเสียงร้อยแก้ว.jpg`}
+                    src={`/assets/images/cert/cert.png`}
                     alt={"การแข่งขันอ่านออกเสียงร้อยแก้ว"}
                     loading="lazy"
                   />
@@ -274,7 +274,7 @@ export default function Home() {
               <ImageList sx={{ width: "100%", height: "auto" }} cols={1} >
                 <ImageListItem>
                   <img
-                    src={`/assets/images/cert/Bordin.png`}
+                    src={`/assets/images/cert/cert.png`}
                     alt={"Bordin"}
                     loading="lazy"
                   />
